@@ -1,4 +1,4 @@
-# senior-machine-learning-engineer
+# senior-machine-learning-engineer-opportunity
 Senior Machine Learning Engineer
 
 Our partner is a dynamically growing company with a strong international background, leveraging data-driven operations to support advanced analytics and AI/ML-based business processes. Working in a modern technology environment, the company places a strong emphasis on the development and operation of scalable data platforms that drive innovation and business value.
